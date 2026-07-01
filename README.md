@@ -2,7 +2,7 @@
 
 🎓 Final Year Computer Science Engineering Student
 
-💻 Passionate about Software Engineering, Full Stack Development, and Data Structures & Algorithms.
+💻 Passionate about Software Engineering, Full Stack Development, Data Structures & Algorithms, Artificial Intelligence and Machine Learning Enthusiast.
 
 Currently building scalable web applications while strengthening problem-solving skills through regular LeetCode practice.
 ---
@@ -12,11 +12,21 @@ Currently building scalable web applications while strengthening problem-solving
 - 🎓 Final Year B.Tech CSE Student
 - 💡 Interested in Software Engineering
 - 💻 Solving Data Structures & Algorithms problems in C++
-- 🌱 Currently learning Full Stack Development
+- 🌱 Building scalable full-stack applications using React, Node.js, Express, and PostgreSQL.
 - 🚀 Preparing for Software Development Engineer (SDE) roles
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhi3620v&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhi3620v&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
 ## 🛠️ Tech Stack
 
 ### Languages
