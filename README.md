@@ -72,7 +72,29 @@ Currently building scalable web applications while strengthening problem-solving
 
 ---
 
-## 🚀 Projects
+
+
+## 🚀 Featured Projects
+
+### 🏠 StayMate – Find Your Perfect Stay. Find Your Perfect Roommate.
+A modern full-stack accommodation platform that streamlines the rental journey for students and working professionals through property discovery, roommate matching, role-based dashboards, and real-time communication.
+
+**✨ Highlights**
+- 🏡 Verified property discovery with advanced search & filtering
+- 👥 Smart roommate finder with compatibility preferences
+- 🗺️ Interactive maps powered by Leaflet & OpenStreetMap
+- 📅 Visit scheduling, wishlist, and booking workflows
+- 🔐 Secure JWT Authentication, Google OAuth & Email Verification
+- 💬 Real-time notifications using Socket.IO
+- 🏢 Dedicated Tenant, Owner, Admin & Moderator workspaces
+- ☁️ Cloudinary image management & Razorpay payment integration
+- 📱 Fully responsive, premium SaaS-inspired user experience
+
+**🛠️ Tech Stack:** React • Vite • Tailwind CSS • Node.js • Express.js • MongoDB Atlas • Socket.IO • Cloudinary • Leaflet • JWT • Google OAuth
+
+🔗 **Live Demo:** https://staymate-rent.vercel.app/
+
+📂 **Repository:** https://github.com/Abhi3620v/StayMate
 
 ### 🛒 BuyBlink – Sustainable Multi-Vendor E-Commerce Platform
 
